@@ -6,6 +6,6 @@ function idade(idade) {
     }
 }
 
-console.log(idade(18));
-console.log(idade(16));
-console.log(idade(23));
+idade(18);
+idade(16);
+idade(23);
